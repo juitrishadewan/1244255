@@ -1,0 +1,78 @@
+#socialicon{
+ width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: white;
+    }
+   #logo{
+ width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: white;
+    }
+    #date{
+ width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: white;
+    }
+    #link{
+ width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: white;
+    }
+#main{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: white;
+}
+#mainLeft{
+    width: 30%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+#mainLeft1{
+    width: 90%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+#mainMiddel1{
+    width: 30%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+#mainMiddel11{
+    width: 90%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+#mainMiddel2{
+    width: 15%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+#mainMiddel21{
+    width: 90%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+#mainRight{
+    width: 25%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+#mainRight1{
+    width: 90%;
+    height: auto;
+    float: left;
+    background-color: white;
+}

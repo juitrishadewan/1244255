@@ -1,0 +1,60 @@
+#mainn{
+ width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: white;
+    }
+     #mainnLeftm{
+    width: 33%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+  #mainnLeft{
+    width: 100%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+  #mainnLeft1{
+    width: 90%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+  #mainnmiddlem{
+    width: 33%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+  #mainnmiddle{
+    width: 100%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+  #mainnmiddle1{
+    width: 90%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+ #mainnRightm{
+    width: 33%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+  #mainnRight{
+    width: 100%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
+  #mainnRight1{
+    width: 90%;
+    height: auto;
+    float: left;
+    background-color: white;
+}
